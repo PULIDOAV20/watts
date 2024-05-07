@@ -28,7 +28,7 @@ public class Watts {
             double consumoMes = Watts[w] - medirAnt;
             double cobroMes = op.consumo(consumoMes, precio);
             System.out.println("mes"+consumoMes+"coonsumo:"+Watts+"KWH"+precio);
-        
+        ///("hola")
 
         }
 
